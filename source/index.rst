@@ -22,6 +22,7 @@
 
    1instruction/instruction
    2installation/installation
+   3basics/basics
    
 
 
