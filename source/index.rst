@@ -16,6 +16,8 @@
 
 修订时间：2020.12.29
 
+请访问我们的网站<http://www.tuotuot.cn> 获取有关产品的最新资讯！
+
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
@@ -24,8 +26,9 @@
    2installation/installation
    3basics/basics
    4imgimport/imgimport
-   5FAQ/FAQ
-   6misc/misc
+   5exception/exception
+   6FAQ/FAQ
+   7misc/misc
 
 .. Indices and tables
 .. ==================
