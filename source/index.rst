@@ -22,10 +22,6 @@
 
    1instruction/instruction
    2installation/installation
-   3basics/basics
-   4imgimport/imgimport
-   5FAQ/FAQ
-   6misc/misc
    
 
 
