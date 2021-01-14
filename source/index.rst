@@ -8,13 +8,13 @@
 欢迎使用Klayout for TTT！
 ===============================
 
-手册版本：1.0
+手册版本：1.1
 
 编写人：托托科技
 
-编写时间：2021.01.04
+编写时间：2020.12.01
 
-修订时间：2021.01.13
+修订时间：2020.12.29
 
 .. toctree::
    :maxdepth: 1
@@ -23,9 +23,9 @@
    1instruction/instruction
    2installation/installation
    3basics/basics
-   
-
-
+   4imgimport/imgimport
+   5FAQ/FAQ
+   6misc/misc
 
 .. Indices and tables
 .. ==================
