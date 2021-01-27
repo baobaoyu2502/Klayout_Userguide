@@ -7,7 +7,7 @@
 点击File->New Layout，
 
 .. image:: 3-0.png
-
+ 
 参数说明
 +++++++++++++++++++++++++
 * Technology ：是一种用于特定工艺的一套模板，根据自身需求对参数进行高级自定义，通常使用时默认即可
@@ -120,7 +120,7 @@ Partial 功能主要是根据顶点改变已有图形的形状，原有图形会
 
 .. raw:: html 
 
-    <video controls src="_static/3-0.mp4"></video>
+    <video controls src="../_static/3-0.mp4" width = 690 height = 515></video>
 
 
 * Merge: 融合，当一个新图形重叠在另一个上时会融合为一个图形，比如两个矩形重叠，那么就会形成一个包含两个矩形所有范围的多边形
